@@ -38,8 +38,9 @@ Banco de Dados: MongoDB, Cassandra, AWS S3, AWS RedShift.
 
 
 
----
 
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Caprasimo&size=16&pause=1000&color=000000&background=FF090900&width=500&lines=ENGENHEIRO+DE+DADOS+EM+CONSTANTE+APRENDIZADO!" alt="Typing SVG" /></a>
 
 <!---
 fuculo/fuculo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

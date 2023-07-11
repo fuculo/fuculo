@@ -32,8 +32,8 @@ Banco de Dados: MongoDB, Cassandra, AWS S3, AWS RedShift.
 
 ## Projetos:
 
+* [Web Scraping](https://github.com/fuculo/Engenharia-de-Dados/tree/main/Web-Scraping)
 
-* **Em construção** 
 
 
 
